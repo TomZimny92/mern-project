@@ -1,0 +1,6 @@
+MongoDB Atlas:
+ Username: Default
+ Password: htDI0pEPCedd12at
+ 
+ connectionString: mongodb+srv://Default:htDI0pEPCedd12at@tz-cluster1.bsoa5.mongodb.net/mern-project-1.Watches?retryWrites=true&w=majority
+
